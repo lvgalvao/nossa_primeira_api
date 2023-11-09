@@ -12,8 +12,8 @@ $ pyenv install 3.11.5
 
 Caso não tenha o Pyenv instalado, siga as instruções de instalação no link abaixo:
 
-![Pyenv Linux e Mac](https://github.com/pyenv/pyenv)
-![Pyenv Windows](https://github.com/pyenv/pyenv)
+- [Pyenv Linux e Mac](https://github.com/pyenv/pyenv)
+- [Pyenv Windows](https://github.com/pyenv/pyenv)
 
 2) Crie um ambiente virtual
 
