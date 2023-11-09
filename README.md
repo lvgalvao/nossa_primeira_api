@@ -38,11 +38,3 @@ $ pip install -r requirements.txt
 ```bash
 $ uvicorn main:app --reload
 ```
-
-# Instalando com Docker
-
-1) Rode Docker Compose Up
-
-```bash
-docker compose up --build
-```
